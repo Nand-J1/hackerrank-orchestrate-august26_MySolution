@@ -14,6 +14,5 @@ The task was to build a system that verifies **visual evidence for damage claims
 ├── code/                             # My solution implementation
 │   ├── main.py                       # Entry point for running the system
 │   └── evaluation/                   # Evaluation workflows and reports
-│       └── main.py                   
-└── dataset/
-    └── output.csv                    # My final predictions
+│       └── main.py
+├── output.csv                    # My final predictions
