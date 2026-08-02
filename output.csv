@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,digest,promotion,The message is promotional but not urgent enough to interrupt the user.,0.79,message_0243;message_0102;message_0101
+msg_091,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0238;message_0381;message_0320
+msg_090,notify,urgent,The sender is asking for a direct action or response now.,0.85,message_0339;message_0338;message_0340
+msg_048,notify,urgent,The message is a direct request or deadline that should interrupt the user.,0.87,message_0151;message_0152;message_0237
+msg_040,notify,personal,The sender directly addresses this user and asks for a response or action.,0.87,message_0136;message_0135;message_0259
+msg_075,notify,event,A verified business is sending a relevant reminder tied to the user's known activity.,0.90,message_0206;message_0205;message_0294
+msg_005,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0065;message_0049;message_0401
+msg_104,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0224;message_0383;message_0050
+msg_069,mute,greeting,The message is a low-value greeting or forwarded note that the user likely does not need interrupted.,0.84,message_0193;message_0177;message_0042
+msg_107,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0056;message_0235;message_0369
+msg_070,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0369;message_0213;message_0195
+msg_003,notify,business_update,A verified business is sending a relevant update tied to the user's recent interaction history.,0.91,message_0031;message_0400;message_0061
+msg_099,notify,urgent,The sender is asking for a direct action or response now.,0.85,message_0227;message_0249;message_0055
+msg_008,notify,business_update,A verified business is sending a relevant update tied to the user's recent interaction history.,0.91,message_0296;message_0072;message_0071
+msg_092,digest,business_update,The verified business message is legitimate but not urgent enough for interruption.,0.80,message_0346;message_0344;message_0345
+msg_060,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0284;message_0176;message_0404
+msg_004,notify,event,A verified business is sending a relevant reminder tied to the user's known activity.,0.90,message_0245;message_0005;message_0246
+msg_030,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0115;message_0335;message_0050
+msg_045,digest,personal,The group message is harmless and can be read later.,0.79,message_0146;message_0145;message_0061
+msg_052,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0208;message_0207;message_0286
+msg_009,digest,personal,The group message is harmless and can be read later.,0.79,message_0074;message_0073;message_0186
+msg_071,digest,personal,The group message is harmless and can be read later.,0.79,message_0197;message_0198;message_0274
+msg_016,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0024;message_0087;message_0183
+msg_065,mute,promotion,The marketing message uses a high-frequency sales pattern and the user has opted out or is likely to ignore it.,0.84,message_0261;message_0260;message_0185
+msg_038,notify,urgent,The message is a direct request or deadline that should interrupt the user.,0.87,message_0131;message_0132;message_0009
+msg_086,mute,spam,The business voice note is low-value and does not show a clear reason to interrupt the user.,0.81,message_0222;message_0248;message_0036
+msg_014,mute,promotion,The marketing message uses a high-frequency sales pattern and the user has opted out or is likely to ignore it.,0.84,message_0017;message_0258;message_0018
+msg_094,mute,promotion,"Similar historical messages were ignored, dismissed, or muted by this user.",0.85,message_0356;message_0048;message_0357
+msg_029,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0113;message_0332;message_0401
+msg_105,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0233;message_0373;message_0122
+msg_002,notify,personal,The sender directly addresses this user and asks for a response or action.,0.87,message_0169;message_0003;message_0059
+msg_010,digest,business_update,The verified business message is legitimate but not urgent enough for interruption.,0.80,message_0011;message_0242;message_0075
+msg_078,digest,personal,The group message is harmless and can be read later.,0.79,message_0211;message_0212;message_0388
+msg_013,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0081;message_0082;message_0009
+msg_018,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0092;message_0091;message_0026
+msg_044,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0036;message_0143;message_0144
+msg_032,notify,urgent,The message is a work-related deadline or dependency that should interrupt the user.,0.88,message_0119;message_0285;message_0120
+msg_106,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0234;message_0376;message_0377
+msg_006,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0029;message_0067;message_0044
+msg_109,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0151;message_0152;message_0237
+msg_108,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0094;message_0093;message_0275
+msg_019,digest,promotion,The message is promotional but not urgent enough to interrupt the user.,0.79,message_0277;message_0275;message_0276
+msg_088,digest,personal,The voice note appears low urgency and does not show risk or a direct action request.,0.79,message_0115;message_0050;message_0224
+msg_056,notify,personal,The sender directly addresses this user and asks for a response or action.,0.87,message_0167;message_0168;message_0226
+msg_027,digest,promotion,The message is promotional but not urgent enough to interrupt the user.,0.79,message_0272;message_0033;message_0007
+msg_050,notify,event,A verified business is sending a relevant reminder tied to the user's known activity.,0.90,message_0279;message_0278;message_0155
+msg_083,digest,personal,The voice note appears low urgency and does not show risk or a direct action request.,0.79,message_0219;message_0325;message_0324
+msg_063,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0182;message_0181;message_0364
+msg_033,digest,greeting,The message is a harmless greeting that can be read later.,0.80,message_0121;message_0122;message_0372
+msg_061,mute,greeting,The message is a low-value greeting or forwarded note that the user likely does not need interrupted.,0.84,message_0193;message_0177;message_0042
+msg_020,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0096;message_0095;message_0114
+msg_017,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0090;message_0089;message_0319
+msg_058,digest,personal,The group message is harmless and can be read later.,0.79,message_0241;message_0040;message_0039
+msg_026,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0032;message_0107;message_0261
+msg_047,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0150;message_0149;message_0001
+msg_046,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0148;message_0147;message_0253
+msg_042,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0140;message_0058;message_0139
+msg_079,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0045;message_0023;message_0213
+msg_098,notify,urgent,The sender is asking for a direct action or response now.,0.85,message_0226;message_0359;message_0054
+msg_037,digest,personal,The group message is harmless and can be read later.,0.79,message_0001;message_0130;message_0269
+msg_007,digest,event,The message is a useful group update but not urgent enough to interrupt the user.,0.82,message_0070;message_0069;message_0275
+msg_085,mute,spam,The business voice note is low-value and does not show a clear reason to interrupt the user.,0.81,message_0221;message_0263;message_0264
+msg_001,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0057;message_0240;message_0139
+msg_021,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0130;message_0190;message_0142
+msg_028,mute,promotion,The marketing message uses a high-frequency sales pattern and the user has opted out or is likely to ignore it.,0.84,message_0034;message_0112;message_0111
+msg_012,mute,forward,The sender is repeatedly forwarding low-value content and the user is unlikely to want it now.,0.83,message_0079;message_0247;message_0080
+msg_064,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0087;message_0183;message_0201
+msg_103,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0065;message_0382;message_0231
+msg_031,notify,urgent,The message is a work-related deadline or dependency that should interrupt the user.,0.88,message_0249;message_0118;message_0117
+msg_057,notify,personal,The sender directly addresses this user and asks for a response or action.,0.87,message_0169;message_0059;message_0003
+msg_087,digest,personal,The voice note appears low urgency and does not show risk or a direct action request.,0.79,message_0204;message_0203;message_0223
+msg_067,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0068;message_0098;message_0029
+msg_039,notify,personal,The sender directly addresses this user and asks for a response or action.,0.87,message_0364;message_0051;message_0403
+msg_082,digest,personal,The voice note appears low urgency and does not show risk or a direct action request.,0.79,message_0218;message_0397;message_0380
+msg_066,notify,event,A verified business is sending a relevant reminder tied to the user's known activity.,0.90,message_0402;message_0257;message_0052
+msg_049,notify,event,A verified business is sending a relevant reminder tied to the user's known activity.,0.90,message_0154;message_0291;message_0153
+msg_015,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0085;message_0199;message_0086
+msg_051,notify,event,A verified business is sending a relevant reminder tied to the user's known activity.,0.90,message_0257;message_0402;message_0103
+msg_097,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0054;message_0225;message_0359
+msg_089,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0299;message_0396;message_0300
+msg_053,notify,urgent,The message is a direct request or deadline that should interrupt the user.,0.87,message_0161;message_0253;message_0411
+msg_059,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0053;message_0214;message_0213
+msg_024,notify,event,A verified business is sending a relevant reminder tied to the user's known activity.,0.90,message_0257;message_0402;message_0103
+msg_072,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0085;message_0199;message_0086
+msg_036,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0283;message_0281;message_0127
+msg_076,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0208;message_0207;message_0286
+msg_055,notify,urgent,The message is a direct request or deadline that should interrupt the user.,0.87,message_0166;message_0165;message_0387
+msg_102,notify,urgent,The sender is asking for a direct action or response now.,0.85,message_0371;message_0230;message_0170
+msg_080,digest,personal,The group message is harmless and can be read later.,0.79,message_0130;message_0190;message_0142
+msg_093,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0349;message_0348;message_0347
+msg_034,mute,greeting,The message is a low-value greeting or forwarded note that the user likely does not need interrupted.,0.84,message_0013;message_0077;message_0171
+msg_035,digest,business_update,The verified business message is legitimate but not urgent enough for interruption.,0.80,message_0281;message_0125;message_0126
+msg_101,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0370;message_0229;message_0268
+msg_041,digest,business_update,The verified business message is legitimate but not urgent enough for interruption.,0.80,message_0138;message_0137;message_0106
+msg_011,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0077;message_0171;message_0123
+msg_110,notify,urgent,The sender is asking for a direct action or response now.,0.85,message_0238;message_0381;message_0320
+msg_095,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0087;message_0183;message_0201
+msg_074,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0204;message_0203;message_0358
+msg_073,mute,scam,"The message uses account, OTP, or verification pressure and looks risky.",0.90,message_0087;message_0184;message_0088
+msg_054,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0163;message_0164;message_0389
+msg_068,digest,personal,The group message is harmless and can be read later.,0.79,message_0191;message_0192;message_0289
+msg_100,notify,urgent,The sender is asking for a direct action or response now.,0.85,message_0362;message_0228;message_0249
+msg_062,notify,urgent,The message is a direct request or deadline that should interrupt the user.,0.87,message_0043;message_0068;message_0098
+msg_096,digest,personal,The message is a low-stakes personal note and does not show urgency or risk.,0.74,message_0353;message_0405;message_0355
+msg_043,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0130;message_0129;message_0190
+msg_077,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0051;message_0403;message_0037
+msg_081,digest,personal,The voice note appears low urgency and does not show risk or a direct action request.,0.79,message_0217;message_0057;message_0168
+msg_025,notify,business_update,A verified business is sending a relevant update tied to the user's recent interaction history.,0.91,message_0239;message_0004;message_0105
+msg_084,mute,spam,The business voice note is low-value and does not show a clear reason to interrupt the user.,0.81,message_0220;message_0388
+msg_022,notify,event,A school or operational update should interrupt the user because it is time-sensitive.,0.87,message_0099;message_0100;message_0150
